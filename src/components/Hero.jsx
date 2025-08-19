@@ -149,7 +149,7 @@ function Hero() {
                     data-aos-duration="1000" 
                     onClick={scrollToPlanos}
                 >
-                    View Plans
+                    View Bundles
                 </PlanosButton>
 
         </Container>

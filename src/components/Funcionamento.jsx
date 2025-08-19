@@ -199,7 +199,7 @@ export function Funcionamento() {
 
                         <Descricao data-aos="slide-up" data-aos-duration="1700" data-aos-offset="300">
                             <h3>Place Order</h3>
-                            <p>You choose the ideal plan and fill out an initial form. In it, you indicate which sections you want (like About, Services, Contact, Portfolio, etc.) and provide the information to include on the site: texts, images, social media, links, and design preferences. The more details, the better!</p>
+                            <p>You choose the ideal bundle and fill out an initial form. In it, you indicate which sections you want (like About, Services, Contact, Portfolio, etc.) and provide the information to include on the site: texts, images, social media, links, and design preferences. The more details, the better!</p>
                         </Descricao>
                         <Descricao data-aos="slide-up" data-aos-duration="2000" data-aos-offset="300">
                             <h3>Approve Design</h3>
@@ -228,7 +228,7 @@ export function Funcionamento() {
                         <img src="EclipseHabilitado.png" alt="Eclipse" data-aos="slide-up" data-aos-duration="2000" />
                         <DescricaoMobile data-aos="slide-up" data-aos-duration="1200" data-aos-offset="300">
                             <h3>Place Order</h3>
-                            <p>You choose the ideal plan and fill out an initial form. In it, you indicate which sections you want (like About, Services, Contact, Portfolio, etc.) and provide the information to include on the site: texts, images, social media, links, and design preferences. The more details, the better!</p>
+                            <p>You choose the ideal bundle and fill out an initial form. In it, you indicate which sections you want (like About, Services, Contact, Portfolio, etc.) and provide the information to include on the site: texts, images, social media, links, and design preferences. The more details, the better!</p>
                         </DescricaoMobile>
                     </div>
 

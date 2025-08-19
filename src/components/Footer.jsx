@@ -31,7 +31,7 @@ const Container = styled.div`
     }
 
     .verPlanos {
-        width: 100px;
+        width: 120px;
         height: 20px;
         background-color: transparent;
         border: none;
@@ -78,7 +78,7 @@ const Container = styled.div`
         }
         
         .verPlanos {
-            width: 70px;
+            width: 80px;
             height: 20px;
             background-color: transparent;
             border: none;
@@ -88,7 +88,7 @@ const Container = styled.div`
         }
         
         .faleConosco {
-            width: 100px;
+            width: 90px;
             height: 30px;
             border: none;
             border-radius: 5px;
@@ -132,7 +132,7 @@ export function Footer() {
             </div>
             
             <div className="d-flex justify-content-center align-items-center gap-3 mobile" data-aos="fade-left" data-aos-duration="2000" data-aos-once="true">
-                <button className="verPlanos" onClick={scrollToPlanos}>View Plans</button>
+                <button className="verPlanos" onClick={scrollToPlanos}>View Bundles</button>
                 <button className="faleConosco" onClick={() => window.open(urlBasica, "_blank")}>Contact Us</button>
             </div>
             

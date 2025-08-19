@@ -276,7 +276,7 @@ export function Planos() {
 
     return (
         <Container data-aos="fade-up" data-aos-duration="1000" id="planosSection">
-            <h2>Choose Your Plan</h2>
+            <h2>Choose Your Bundle</h2>
             <div className="row w-100 d-flex justify-content-center align-items-center" style={{gap: "80px"}}>
                 <CardPlanos data-aos="flip-left" data-aos-duration="1200">
 
@@ -286,7 +286,7 @@ export function Planos() {
                             <TitlePlano style={{ backgroundColor: "#1B407C" }}>
                                 <p>Basic</p>
                             </TitlePlano>
-                            <h3>Basic Plan</h3>
+                            <h3>Basic Bundle</h3>
                         </div>
 
                         <BalonPrice style={{background: "linear-gradient(to bottom, #224A8C, #D5D5D5)"}}>
@@ -327,7 +327,7 @@ export function Planos() {
                             color='rgba(34, 74, 140, 1)'
                             onClick={() => window.open(urlBasico, "_blank")}
                         >
-                            Choose Plan
+                            Choose
                         </ContratarButton>
 
                     </CardContent>
@@ -342,7 +342,7 @@ export function Planos() {
                             <TitlePlano style={{backgroundColor: "#6A3EF2"}}>
                                 <p>PRO</p>
                             </TitlePlano>
-                            <h3>Professional Plan</h3>
+                            <h3>Professional Bundle</h3>
                         </div>
 
                         <BalonPrice style={{background: "linear-gradient(to bottom, #7F5AF0, #D5D5D5)"}}>
@@ -383,7 +383,7 @@ export function Planos() {
                             color='rgba(127,90,240,1)'
                             onClick={() => window.open(urlProfissional, "_blank")}
                         >
-                            Choose Plan
+                            Choose
                         </ContratarButton>
 
                     </CardContent>
@@ -398,7 +398,7 @@ export function Planos() {
                             <TitlePlano style={{backgroundColor: "#CD9F09"}}>
                                 <p>Premium</p>
                             </TitlePlano>
-                            <h3>Premium Plan</h3>
+                            <h3>Premium Bundle</h3>
                         </div>
                         
                         <BalonPrice style={{background: "linear-gradient(to bottom, #D4AF37, #D5D5D5)"}}>
@@ -439,7 +439,7 @@ export function Planos() {
                             color='rgba(212, 175, 55, 1)'
                             onClick={() => window.open(urlPremium, "_blank")}
                         >
-                            Choose Plan
+                            Choose
                         </ContratarButton>
 
                     </CardContent>

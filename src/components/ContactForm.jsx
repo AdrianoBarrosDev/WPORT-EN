@@ -296,7 +296,7 @@ export function ContactForm() {
         });
     }
 
-    const urlBasica = import.meta.env.VITE_API_URL;
+    const urlBasica = import.meta.env.VITE_API_URL + '?text=Hello%2C%20I%20am%20reaching%20out%20to%20learn%20more%20about%20the%20services%20offered%20by%20WPORT.';
 
     return (
         <InfoBox

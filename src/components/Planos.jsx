@@ -270,9 +270,9 @@ const ContratarButton = styled.button`
 
 export function Planos() {
 
-    const urlBasico = `${import.meta.env.VITE_API_URL}?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20WPORT%27s%20Basic%20Plan.`
-    const urlProfissional = `${import.meta.env.VITE_API_URL}?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20WPORT%27s%20Professional%20Plan.`
-    const urlPremium = `${import.meta.env.VITE_API_URL}?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20WPORT%27s%20Premium%20Plan.`
+    const urlBasico = `${import.meta.env.VITE_API_URL}?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20WPORT%27s%20Basic%20Bundle.`
+    const urlProfissional = `${import.meta.env.VITE_API_URL}?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20WPORT%27s%20Professional%20Bundle.`
+    const urlPremium = `${import.meta.env.VITE_API_URL}?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20WPORT%27s%20Premium%20Bundle.`
 
     return (
         <Container data-aos="fade-up" data-aos-duration="1000" id="planosSection">
